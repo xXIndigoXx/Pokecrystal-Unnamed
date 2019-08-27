@@ -253,12 +253,8 @@ ENDM
 	map_const GOLDENROD_MAGNET_TRAIN_STATION,              10,  9 ;  7
 	map_const GOLDENROD_FLOWER_SHOP,                        4,  4 ;  8
 	map_const GOLDENROD_PP_SPEECH_HOUSE,                    4,  4 ;  9
-	map_const GOLDENROD_NAME_RATER,                         4,  4 ; 10
-	map_const GOLDENROD_DEPT_STORE_1F,                      8,  4 ; 11
-	map_const GOLDENROD_DEPT_STORE_2F,                      8,  4 ; 12
-	map_const GOLDENROD_DEPT_STORE_3F,                      8,  4 ; 13
-	map_const GOLDENROD_DEPT_STORE_4F,                      8,  4 ; 14
-	map_const GOLDENROD_DEPT_STORE_5F,                      8,  4 ; 15
+	map_const GOLDENROD_NAME_RATER,                         4,  4 ; 10              
+	map_const GOLDENROD_DEPT_STORE5f,                       8,  4 ; 15
 	map_const GOLDENROD_DEPT_STORE_6F,                      8,  4 ; 16
 	map_const GOLDENROD_DEPT_STORE_ELEVATOR,                2,  2 ; 17
 	map_const GOLDENROD_DEPT_STORE_ROOF,                    8,  4 ; 18
