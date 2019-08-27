@@ -1,10 +1,10 @@
 	db "BIG JAW@" ; species name
 	dw 200, 210 ; height, weight
 
-	db   "This rough critter"
-	next "chomps at any"
-	next "moving object it"
+	db   "Its powerful,"
+	next "wellDeveloped jaws"
+	next "are capable of cr-"
 
-	page "sees. Turning your"
-	next "back on it is not"
-	next "recommended.@"
+	page "-ushing anything."
+	next "Even its Trainer"
+	next "must be careful.@"
