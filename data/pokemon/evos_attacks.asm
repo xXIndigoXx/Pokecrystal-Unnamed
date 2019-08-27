@@ -17,6 +17,21 @@ SECTION "Evolutions and Attacks", ROMX
 
 INCLUDE "data/pokemon/evos_attacks_pointers.asm"
 
+
+; How many "parameters" each evolution type has
+EvoTypeSizes::
+	db 2 ; EVOLVE_LEVEL
+	db 2 ; EVOLVE_ITEM
+	db 3 ; EVOLVE_ITEM_GENDER
+	db 2 ; EVOLVE_TRADE
+	db 2 ; EVOLVE_HAPPINESS
+	db 3 ; EVOLVE_STAT
+	db 2 ; EVOLVE_MOVE
+	db 2 ; EVOLVE_MOVE_TYPE
+	db 3 ; EVOLVE_HOLD
+	db 2 ; EVOLVE_PARTY
+
+
 BulbasaurEvosAttacks:
 	db EVOLVE_LEVEL, 16, IVYSAUR
 	db 0 ; no more evolutions
@@ -477,6 +492,7 @@ ClefairyEvosAttacks:
 	db 26, DEFENSE_CURL
 	db 34, METRONOME
 	db 43, MOONLIGHT
+	db 46, MOONBLAST
 	db 53, LIGHT_SCREEN
 	db 0 ; no more level-up moves
 
@@ -567,7 +583,8 @@ OddishEvosAttacks:
 	db 16, STUN_SPORE
 	db 18, SLEEP_POWDER
 	db 23, ACID
-	db 32, MOONLIGHT
+	db 27, MOONLIGHT
+	db 43, MOONBLAST
 	db 39, PETAL_DANCE
 	db 0 ; no more level-up moves
 
@@ -584,6 +601,7 @@ GloomEvosAttacks:
 	db 18, SLEEP_POWDER
 	db 24, ACID
 	db 35, MOONLIGHT
+	db 40, MOONBLAST
 	db 44, PETAL_DANCE
 	db 0 ; no more level-up moves
 
@@ -2384,6 +2402,7 @@ TogepiEvosAttacks:
 	db 7, METRONOME
 	db 18, SWEET_KISS
 	db 25, ENCORE
+	db 27, MOONBLAST
 	db 31, SAFEGUARD
 	db 38, DOUBLE_EDGE
 	db 0 ; no more level-up moves
@@ -2395,6 +2414,7 @@ TogeticEvosAttacks:
 	db 7, METRONOME
 	db 18, SWEET_KISS
 	db 25, ENCORE
+	db 27, MOONBLAST
 	db 31, SAFEGUARD
 	db 38, DOUBLE_EDGE
 	db 0 ; no more level-up moves
@@ -2668,6 +2688,7 @@ UmbreonEvosAttacks:
 	db 42, MEAN_LOOK
 	db 47, SCREECH
 	db 52, MOONLIGHT
+	db 60, MOONBLAST
 	db 0 ; no more level-up moves
 
 MurkrowEvosAttacks:
