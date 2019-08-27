@@ -1,10 +1,10 @@
-	db "LONG BODY@" ; species name
+	db "WALKER@" ; species name
 	dw 511, 720 ; height, weight
 
-	db   "It lives in narrow"
-	next "burrows that fit"
-	next "its slim body. The"
+	db   "It loves to walk,"
+	next "singing with each"
+	next "step. very few kn-"
 
-	page "deeper the nests"
-	next "go, the more maze-"
-	next "like they become.@"
+	page "-ow what it sings,"
+	next "But thoes who do"
+	next "walk, sing it to@"

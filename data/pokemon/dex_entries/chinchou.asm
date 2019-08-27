@@ -2,9 +2,9 @@
 	dw 108, 260 ; height, weight
 
 	db   "Its antennae, whi-"
-	next "ch evolved from a"
-	next "fin, have both po-"
+	next "ch evolved from"
+	next "the darkness of w-"
 
-	page "sitive and neg-"
-	next "ative charges flo-"
-	next "wing through them.@"
+	page "-ater creates lig-"
+	next "-ht for their very"
+	next "Weak Eyes@"
