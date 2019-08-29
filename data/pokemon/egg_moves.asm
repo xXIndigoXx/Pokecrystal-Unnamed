@@ -612,9 +612,9 @@ MurkrowEggMoves:
 	db SKY_ATTACK
 	db -1 ; end
 
-MisdreavusEggMoves:
-	db SCREECH
-	db DESTINY_BOND
+RinRinEggMoves:
+	db PERISH_SONG
+	db METRONOME
 	db -1 ; end
 
 GirafarigEggMoves:
