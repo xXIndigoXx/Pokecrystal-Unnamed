@@ -238,7 +238,6 @@ Pokered_MonIndices:
 	db UMBREON
 	db MURKROW
 	db SLOWKING
-	db MISDREAVUS
 	db UNOWN
 	db WOBBUFFET
 	db GIRAFARIG
