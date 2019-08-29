@@ -1,4 +1,4 @@
-; Johto Pokémon in grass
+; Johto Pokémon in grasss
 
 JohtoGrassWildMons:
 
