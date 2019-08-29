@@ -134,7 +134,6 @@ AlphabeticalPokedexOrder:
 	db MEW
 	db MEWTWO
 	db MILTANK
-	db MISDREAVUS
 	db MOLTRES
 	db MR__MIME
 	db MUK
@@ -186,6 +185,7 @@ AlphabeticalPokedexOrder:
 	db REMORAID
 	db RHYDON
 	db RHYHORN
+	db RINRIN
 	db SANDSHREW
 	db SANDSLASH
 	db SCIZOR
