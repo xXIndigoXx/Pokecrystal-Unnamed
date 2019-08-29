@@ -198,7 +198,7 @@ AnimationIdlePointers:
 	dw UmbreonAnimationIdle
 	dw MurkrowAnimationIdle
 	dw SlowkingAnimationIdle
-	dw MisdreavusAnimationIdle
+	dw RinRinAnimationIdle
 	dw UnownAnimationIdle
 	dw WobbuffetAnimationIdle
 	dw GirafarigAnimationIdle
