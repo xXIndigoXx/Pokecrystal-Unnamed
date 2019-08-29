@@ -204,7 +204,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,    -$0e9,  $0f0 ; UMBREON
 	mon_cry CRY_MARILL,     -$01f,  $180 ; MURKROW
 	mon_cry CRY_SLOWKING,    $104,  $200 ; SLOWKING
-	mon_cry CRY_MEOWTH,      $130,  $0e8 ; MISDREAVUS
+	mon_cry CRY_MEOWTH,      $130,  $0e8 ; RINRIN
 	mon_cry CRY_HOOTHOOT,    $162,  $100 ; UNOWN
 	mon_cry CRY_AMPHAROS,    $27b,  $144 ; WOBBUFFET
 	mon_cry CRY_GIRAFARIG,   $041,  $200 ; GIRAFARIG
