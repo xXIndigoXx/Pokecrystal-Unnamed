@@ -198,7 +198,7 @@ PokemonNames::
 	db "UMBREON@@@"
 	db "MURKROW@@@"
 	db "SLOWKING@@"
-	db "MISDREAVUS"
+	db "RINRIN@@@@"
 	db "UNOWN@@@@@"
 	db "WOBBUFFET@"
 	db "GIRAFARIG@"
