@@ -199,7 +199,7 @@ PokedexDataPointerTable:
 	dw UmbreonPokedexEntry
 	dw MurkrowPokedexEntry
 	dw SlowkingPokedexEntry
-	dw MisdreavusPokedexEntry
+	dw RinRinPokedexEntry
 	dw UnownPokedexEntry
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry
