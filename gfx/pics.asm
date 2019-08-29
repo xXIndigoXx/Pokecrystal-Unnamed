@@ -252,7 +252,7 @@ ParasectBackpic:     INCBIN "gfx/pokemon/parasect/back.2bpp.lz"
 
 SECTION "Pics 10", ROMX
 
-MisdreavusFrontpic:  INCBIN "gfx/pokemon/misdreavus/front.animated.2bpp.lz"
+RinRinFrontpic:      INCBIN "gfx/pokemon/RinRin/front.animated.2bpp.lz"
 HoundourFrontpic:    INCBIN "gfx/pokemon/houndour/front.animated.2bpp.lz"
 MankeyFrontpic:      INCBIN "gfx/pokemon/mankey/front.animated.2bpp.lz"
 CelebiFrontpic:      INCBIN "gfx/pokemon/celebi/front.animated.2bpp.lz"
