@@ -198,7 +198,7 @@ FramesPointers:
 	dw UmbreonFrames
 	dw MurkrowFrames
 	dw SlowkingFrames
-	dw MisdreavusFrames
+	dw RinRinFrames
 	dw UnownFrames
 	dw WobbuffetFrames
 	dw GirafarigFrames
