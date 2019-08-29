@@ -198,7 +198,7 @@ AnimationPointers:
 	dw UmbreonAnimation
 	dw MurkrowAnimation
 	dw SlowkingAnimation
-	dw MisdreavusAnimation
+	dw RinRinAnimation
 	dw UnownAnimation
 	dw WobbuffetAnimation
 	dw GirafarigAnimation
