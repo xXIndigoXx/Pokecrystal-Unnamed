@@ -214,7 +214,7 @@ NewPokedexOrder:
 	db SLUGMA
 	db MAGCARGO
 	db SNEASEL
-	db MISDREAVUS
+	db RINRIN
 	db PORYGON
 	db PORYGON2
 	db CHANSEY
