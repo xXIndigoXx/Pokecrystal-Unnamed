@@ -2714,16 +2714,16 @@ SlowkingEvosAttacks:
 	db 48, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-MisdreavusEvosAttacks:
+RinRinEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, GROWL
-	db 1, PSYWAVE
-	db 6, SPITE
-	db 12, CONFUSE_RAY
-	db 19, MEAN_LOOK
-	db 27, PSYBEAM
-	db 36, PAIN_SPLIT
-	db 46, PERISH_SONG
+	db 1, BITE
+	db 6, CHARM
+	db 12, CRUNCH
+	db 19, FALSE_SWIPE
+	db 27, METAL_CLAW
+	db 36, METRONOME
+	db 46, MIMIC
 	db 0 ; no more level-up moves
 
 UnownEvosAttacks:
