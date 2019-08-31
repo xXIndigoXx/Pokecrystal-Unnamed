@@ -1128,7 +1128,7 @@ JohtoGrassWildMons:
 	db 50, PARASECT
 	db 52, PARASECT
 	; nite
-	db 45, MISDREAVUS
+	db 45, GOLBAT
 	db 48, GOLBAT
 	db 50, GOLBAT
 	db 46, PARASECT
