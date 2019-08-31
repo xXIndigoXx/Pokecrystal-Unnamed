@@ -252,7 +252,7 @@ ParasectBackpic:     INCBIN "gfx/pokemon/parasect/back.2bpp.lz"
 
 SECTION "Pics 10", ROMX
 
-RinRinFrontpic:      INCBIN "gfx/pokemon/RinRin/front.animated.2bpp.lz"
+RinRinFrontpic:      INCBIN "gfx/pokemon/rinrin/front.animated.2bpp.lz"
 HoundourFrontpic:    INCBIN "gfx/pokemon/houndour/front.animated.2bpp.lz"
 MankeyFrontpic:      INCBIN "gfx/pokemon/mankey/front.animated.2bpp.lz"
 CelebiFrontpic:      INCBIN "gfx/pokemon/celebi/front.animated.2bpp.lz"
@@ -438,7 +438,7 @@ HitmonchanBackpic:   INCBIN "gfx/pokemon/hitmonchan/back.2bpp.lz"
 JumpluffBackpic:     INCBIN "gfx/pokemon/jumpluff/back.2bpp.lz"
 CooltrainermPic:     INCBIN "gfx/trainers/cooltrainer_m.2bpp.lz"
 BlastoiseBackpic:    INCBIN "gfx/pokemon/blastoise/back.2bpp.lz"
-RinRinBackpic:       INCBIN "gfx/pokemon/RinRin/back.2bpp.lz"
+RinRinBackpic:       INCBIN "gfx/pokemon/rinrin/back.2bpp.lz"
 TyrogueBackpic:      INCBIN "gfx/pokemon/tyrogue/back.2bpp.lz"
 GeodudeFrontpic:     INCBIN "gfx/pokemon/geodude/front.animated.2bpp.lz"
 ScizorBackpic:       INCBIN "gfx/pokemon/scizor/back.2bpp.lz"
