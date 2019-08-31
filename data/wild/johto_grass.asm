@@ -1079,8 +1079,8 @@ JohtoGrassWildMons:
 	db 46, GOLBAT
 	db 46, PARASECT
 	db 48, PARASECT
-	db 45, MISDREAVUS
-	db 45, MISDREAVUS
+	db 45, PARASECT
+	db 45, PARASECT
 
 	map_id SILVER_CAVE_ROOM_3
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
