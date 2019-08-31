@@ -449,7 +449,7 @@ INCBIN "gfx/footprints/espeon.1bpp",     footprint_top
 INCBIN "gfx/footprints/umbreon.1bpp",    footprint_top
 INCBIN "gfx/footprints/murkrow.1bpp",    footprint_top
 INCBIN "gfx/footprints/slowking.1bpp",   footprint_top
-INCBIN "gfx/footprints/RinRin.1bpp", footprint_top
+INCBIN "gfx/footprints/rinrin.1bpp", footprint_top
 ; 193-200 bottom halves
 INCBIN "gfx/footprints/yanma.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/wooper.1bpp",     footprint_bottom
@@ -458,7 +458,7 @@ INCBIN "gfx/footprints/espeon.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/umbreon.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/murkrow.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/slowking.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/RinRin.1bpp", footprint_bottom
+INCBIN "gfx/footprints/rinrin.1bpp", footprint_bottom
 ; 201-208 top halves
 INCBIN "gfx/footprints/unown.1bpp",      footprint_top
 INCBIN "gfx/footprints/wobbuffet.1bpp",  footprint_top
