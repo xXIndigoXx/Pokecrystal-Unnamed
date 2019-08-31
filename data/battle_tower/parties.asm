@@ -289,7 +289,7 @@ BattleTowerMons1:
 	bigdw 31 ; SDef
 	db "PORIGON2@@@"
 
-	db MISDREAVUS
+	db GASTLY
 	db FOCUS_BAND
 	db PERISH_SONG, MEAN_LOOK, PAIN_SPLIT, SHADOW_BALL
 	dw 0 ; OT ID
@@ -5230,7 +5230,7 @@ BattleTowerMons10:
 	bigdw 212 ; SDef
 	db "ONIDORIRU@@"
 
-	db MISDREAVUS
+	db GASTLY
 	db FOCUS_BAND
 	db PERISH_SONG, MEAN_LOOK, PAIN_SPLIT, SHADOW_BALL
 	dw 0 ; OT ID
